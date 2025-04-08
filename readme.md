@@ -8,3 +8,8 @@ Esse pequeno projeto permite que o usuário calcule seus ganhos e perdas diário
 2. Compile o projeto:
    ```bash
    javac TrackerGUI.java
+
+1. Install Java (JDK).
+2. Compile the project:
+   ```bash
+   javac TrackerGUI.java
