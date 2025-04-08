@@ -1,13 +1,8 @@
-# TrackerGUI - Acompanhamento de Ações com Interface Swing
+# TrackerGUI - Stock Tracking with Swing Interface
 
+This small project allows the user to calculate their daily gains and losses from investing in a stock over a period of 7 days. It calculates the daily profit or loss and displays a summary at the end of the week.
 
-Esse pequeno projeto permite que o usuário calcule seus ganhos e perdas diários no investimento de uma ação ao longo de 7 dias. Ele calcula os ganhos ou perdas diários e exibe o resumo ao final da semana.
-## Como executar
-
-1. Instale o Java (JDK).
-2. Compile o projeto:
-   ```bash
-   javac TrackerGUI.java
+## How to run
 
 1. Install Java (JDK).
 2. Compile the project:
